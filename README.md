@@ -7,6 +7,6 @@ Meu nome é Vitória Manuella
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
 
-!.[].(https://tenor.com/pt-BR/view/elmer-sheep-thumbs-up-like-approved-gif-7569635)
+![](https://tenor.com/pt-BR/view/elmer-sheep-thumbs-up-like-approved-gif-7569635)
 
 
